@@ -1,0 +1,275 @@
+body{
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 100%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    background-color: rgb(0, 0, 0);
+    /* height: 100px; */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    width: 100%;
+}
+.nav11{
+    background-color: rgb(0, 0, 0);
+    margin: auto;
+    /* height: 40px; */
+    width: 100%;
+    /* display: inline-block; */
+    /* align-items: center; */
+    /* text-align: center; */
+}
+.nav11 h2{
+    text-align: center;
+    /* margin-left: 150px; */
+}
+.nav12{
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    /* height: 40px; */
+    display: flex;
+    /* font-size: 12px; */
+    margin: auto;
+    /* padding: 5px; */
+}
+.subs{
+    background-color: red;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+
+}
+.subs:hover{
+    background-color: rgb(196, 0, 0);
+}
+
+.main-container{
+    width: 100%;
+    color: black;
+    padding: 0;
+    margin: 0;
+    background-color: white;
+}
+.watch{
+    width: 55%;
+    margin: auto;
+}
+.watch h1 .watch p{
+    text-align: left;
+}
+.container1{
+    margin: auto;
+    width: 55%;
+    height: 100%;
+    padding: 0;
+
+}
+.container1 h1,p{
+    text-align: left;
+}
+.box{
+    display: inline-block;
+    border-radius: 15px;
+    margin: 7px;
+    width: 47%;
+    color: white;
+    height: 160px;
+    font-size: 90%;
+    background-color: teal;
+}
+.box:hover{
+    border: 2px solid transparent;
+
+}
+.box11 p,h2,h3{
+    margin: 17px;
+    text-align: left;
+}
+.box12{
+
+}
+.box13{
+
+}
+
+.box-date{
+    color: rgb(209, 209, 209);
+}
+.box-heading{
+    color: white;
+}
+.box-details{
+    color: rgb(198, 198, 198);
+    text-align: center;
+}
+.container11{
+    background-color: #171923;
+}
+.container12{
+    background-color: #322659;
+
+}
+.container13{
+    background-color:#1A365D;
+
+}
+.container14{
+    background-color: #63171B;
+
+}
+.container15{
+    background-color: #1C4532;
+
+}
+.container16{
+    background-color: #1D4044;
+
+}
+.container17{
+    background-color: #5F370E;
+
+}
+.container18{
+    background-color: #5F370E;
+
+}
+.container19{
+    background-color: #065666;
+
+}
+.container20{
+    background-color: #521B41;
+
+}
+.container21{
+    background-color: #1A202C;
+
+}
+.container22{   
+    background-color: #44337A;
+
+}
+.container23{
+    background-color: #2A4365;
+
+}
+.container24{
+    background-color: #822727;
+
+}
+.container25{
+    background-color: #22543D;
+
+}
+.container26{
+    background-color: #234E52;
+
+}
+.container27{
+    background-color: #744210;
+
+}
+.container28{
+    background-color: #086F83;
+
+}
+.container29{    
+    background-color: #702459;
+
+
+}
+.container30{
+    background-color: #2D3748;
+
+}
+.container31{
+    background-color: #553C9A;
+
+}
+.container32{
+    background-color: #2C5282;
+
+}
+.container33{
+    background-color: #9B2C2C;
+
+}
+.container34{
+    background-color: #285E61;
+
+}
+.container35{
+    background-color: #975A16;
+
+}
+.conatiner36{
+    background-color: #0987A0;
+
+}
+.container37{
+    background-color: #97266D;
+
+}
+.container38{
+    background-color: #4A5568;
+
+}
+.container39{
+    background-color: #6B46C1;
+
+}
+.container40{
+    background-color: #2B6CB0;
+
+}
+.container41{
+    background-color: #C53030;
+
+}
+.container42{
+    background-color: #2F855A;
+
+}
+.container43{
+    background-color: #2C7A7B;
+
+}
+.container44{
+    background-color: #B7791F;
+
+}
+.container45{
+    background-color: #00A3C4;
+
+}
+.container46{
+    background-color: #B83280;
+
+}
+
+@media (max-width:1100px) {
+    .container1{
+        width: 100%;
+    }
+    .box{
+        width: 98.5%;
+        height: 60%;
+        margin: 5px;
+    }
+}
+.bottom-of-main-container h1,p{
+    margin: 50px;
+    text-align: center;
+}
+.bottom-container{
+    width: 50%;
+    height: 200px;
+    margin: auto;
+
+}
